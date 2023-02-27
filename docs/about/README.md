@@ -11,7 +11,7 @@ socials:
   - title: email
     link: "mailto:joyboy[at]unram.co.id"
   - title: wazap
-    link: https://wa.me/085339357795
+    link: https://wa.me/+6285339357795
 # actions:
 #   - text: Projects
 #     link: /projects/
