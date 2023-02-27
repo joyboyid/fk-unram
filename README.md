@@ -6,7 +6,7 @@
   Your Awesome Homepage
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   Build your site like a Pro :v:
 </p>
 
@@ -95,4 +95,4 @@ It's **responsive** and **mobile friendly**.
 
 Copyright © 2020, Fing
 
-Released under the [MIT License](https://opensource.org/licenses/MIT).
+Released under the [MIT License](https://opensource.org/licenses/MIT). -->
