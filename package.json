@@ -6,8 +6,8 @@
   "repository": "https://github.com/joyboyid/fk-unram.git",
   "scripts": {
     "clean": "rimraf dist/*",
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "dev": "vuepress --openssl-legacy-provider dev docs",
+    "build": "vuepress --openssl-legacy-provider build docs"
   },
   "license": "MIT",
   "devDependencies": {
