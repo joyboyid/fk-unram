@@ -2,8 +2,8 @@
   "name": "vuepress-homepage",
   "version": "0.0.1",
   "description": "Generate your homepage with VuePress",
-  "author": "Fing <mtobeiyf@163.com>",
-  "repository": "https://github.com/mtobeiyf/vuepress-homepage.git",
+  "author": "JoyBoy <joyboy@unram.ac.id>",
+  "repository": "https://github.com/joyboyid/fk-unram.git",
   "scripts": {
     "clean": "rimraf dist/*",
     "dev": "vuepress dev docs",

@@ -1,15 +1,16 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://github.com/mtobeiyf/vuepress-homepage" title="Homepage">
     <img src="https://user-images.githubusercontent.com/5097752/39163721-4c79012c-47ae-11e8-842b-2af72f69cc2c.jpg" width="300px" alt="">
   </a>
   <br />
   Your Awesome Homepage
-</h1>
+</h1> -->
 
-<!-- <p align="center">
+ <p align="center">
   Build your site like a Pro :v:
 </p>
 
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="">
   <img src="https://img.shields.io/badge/PR-welcome-brightgreen.svg" alt="">
