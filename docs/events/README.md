@@ -6,13 +6,13 @@
 
 ## Kegiata Bulan Maret
 
-| Tanggal | Nama Penanggung Jawab | Hp           | Ruangan | Kegiatan             | Instansi      | jam         |
-| ------- | --------------------- | ------------ | ------- | -------------------- | ------------- | ----------- |
-| 1       |                       |              |         |                      |               |             |
-| 2       | Illiani Sholihatin    | 081946609171 | Kelas D | Pelatihan legislator | DPM Fk Unram  | 16.00-18.30 |
-| 3       | Muhammad Abdurrosyid  | 081916555656 | Kelas E | Latihan Calang       | TBM-BG        | 16.30-18.30 |
+| Tanggal | Nama Penanggung Jawab | Hp           | Ruangan | Kegiatan             | Instansi      | jam           |
+| ------- | --------------------- | ------------ | ------- | -------------------- | ------------- | ------------- |
+| 1       |                       |              |         |                      |               |               |
+| 2       | Illiani Sholihatin    | 081946609171 | Kelas D | Pelatihan legislator | DPM Fk Unram  | 16.00-18.30   |
+| 3       | Muhammad Abdurrosyid  | 081916555656 | Kelas E | Latihan Calang       | TBM-BG        | 16.30-18.30   |
 | 4       |                       |
-| 5       | Lania Pradiva Utari   | 082340719612 | Kelas D | Musyawarah Kerja     | Amsa FK Unram | 07.00-14.20 |
+| 5       | Lania Pradiva Utari   | 082340719612 | Kelas D | Musyawarah Kerja     | Amsa FK Unram | 07.00-14.20   |
 | 6       |                       |
 | 7       |                       |
 | 8       |                       |
@@ -33,7 +33,7 @@
 | 23      |                       |
 | 24      |                       |
 | 25      |                       |
-| 26      |                       |
+| 26      | Lania Pradiva Utari   | 082340719612 | kelas D | Amsa - Indonesia     | Amsa Unram    | 15.00 - 18.00 |
 | 27      |                       |
 | 28      |                       |
 | 29      |                       |

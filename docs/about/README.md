@@ -4,7 +4,7 @@ description: "The biography and information about me."
 avatar: /ghost.jpg
 head: "Ghostt"
 info: "1-4-1"
-interests: "Hunt Down Makarov"
+interests: "i'm Administrator the Kraken :uk:"
 socials:
   - title: github
     link: https://github.com/joyboyid
